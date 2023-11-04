@@ -1,0 +1,10 @@
+.Shrink img {
+    transition: .75s ease !important;
+     }
+    
+    .Shrink img:hover{
+    -webkit-transform: scale(0.8) !important;
+    -ms-transform: scale(0.8)!important;
+    transform: scale(0.8)!important;
+    transition: .75s ease !important;
+    }
