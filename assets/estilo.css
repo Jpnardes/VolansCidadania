@@ -70,7 +70,9 @@
     text-indent: 10px !important;
     font-size: 1.2em !important;
 }
-
+.ps{
+    text-align: start!important;
+}
 li.l1 {
     display: list-item;
     padding-bottom: 10px;
